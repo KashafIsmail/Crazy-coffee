@@ -471,8 +471,8 @@ header .hero-img{
 .text{
   /* z-index: -1; */
   position: absolute;
-  left: 20%;
-  top: 52%;
+  left: 16%;
+  top: 42%;
   height: 153px;
   width: 200px;
 }
